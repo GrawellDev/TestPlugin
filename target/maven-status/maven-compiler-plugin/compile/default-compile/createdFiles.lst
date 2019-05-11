@@ -1,0 +1,13 @@
+net\fixer\firstplugin\commands\FeedCMD.class
+net\fixer\firstplugin\events\onPlayerMove.class
+net\fixer\firstplugin\events\onPlayerLeave.class
+net\fixer\firstplugin\events\onDeath.class
+net\fixer\firstplugin\commands\Kill.class
+net\fixer\firstplugin\commands\sendWord.class
+net\fixer\firstplugin\commands\VaultCommand.class
+net\fixer\firstplugin\commands\ListCMD.class
+net\fixer\firstplugin\commands\God.class
+net\fixer\firstplugin\commands\Explode.class
+net\fixer\firstplugin\FirstPlugin.class
+net\fixer\firstplugin\events\onPlayerJoin.class
+net\fixer\firstplugin\commands\HealCMD.class

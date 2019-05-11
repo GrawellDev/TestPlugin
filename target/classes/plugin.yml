@@ -1,0 +1,28 @@
+name: FirstPlugin
+version: 1.3.0
+main: net.fixer.firstplugin.FirstPlugin
+api-version: 1.8.9
+authors: [Grawell]
+description: This is our first plugin
+website: https://twitter.com/grxwell
+commands:
+  list:
+    description: Look up for online players.
+  heal:
+    description: Get some healt.
+  feed:
+    description: Fix your hunger.
+  god:
+    description: Become invincible.
+  printMessageFromConfig:
+    description: Config Test.
+  setFood:
+    description: Test
+  explode:
+    description: Test
+  sendWord:
+    description: Test
+  kill:
+    description: Test
+  vault:
+    description: Test

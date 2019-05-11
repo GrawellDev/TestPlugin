@@ -1,0 +1,7 @@
+Food: 'Steak'
+Number: 123
+Boolean: true
+FoodList:
+  - 'Pizza'
+  - 'Orange'
+  - 'Grape'
