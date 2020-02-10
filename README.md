@@ -1,2 +1,2 @@
 # TestPlugin
-This is a plugin test
+My first ever Java / Bukkit plugin
